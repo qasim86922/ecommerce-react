@@ -4,7 +4,7 @@ import Empty from './components/Empty';
 import Loadable from 'react-loadable';
 import NavbarContainer from './containers/Navbar-container';
 import Footer from './components/Footer';
-import './style/transition.css';
+import './style/transition.css'
 
 
 const Loading = () => <div style={{height: '1000px'}}></div>;
